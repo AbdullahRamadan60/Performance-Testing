@@ -1,0 +1,11 @@
+timeStamp,elapsed,label,responseCode,responseMessage,threadName,dataType,success,failureMessage,bytes,sentBytes,grpThreads,allThreads,URL,Latency,IdleTime,Connect
+1657190886011,924,get session,200,OK,Thread Group 1-1,text,true,,1717,136,1,1,http://192.168.1.4:1080/cgi-bin/nav.pl?in=home,869,0,90
+1657190886941,142,login,200,OK,Thread Group 1-1,text,true,,918,303,1,1,http://192.168.1.4:1080/cgi-bin/login.pl,138,0,0
+1657190887084,238,restination,200,OK,Thread Group 1-1,text,true,,2706,463,1,1,http://192.168.1.4:1080/cgi-bin/reservations.pl,233,0,0
+1657190887323,134,reservation,200,OK,Thread Group 1-1,text,true,,2906,372,1,1,http://192.168.1.4:1080/cgi-bin/reservations.pl,129,0,0
+1657190887457,172,confirmation,200,OK,Thread Group 1-1,text,true,,2808,574,1,1,http://192.168.1.4:1080/cgi-bin/reservations.pl,167,0,0
+1657191444775,256,get session,200,OK,Thread Group 1-1,text,true,,1717,136,1,1,http://192.168.1.4:1080/cgi-bin/nav.pl?in=home,248,0,46
+1657191445051,115,login,200,OK,Thread Group 1-1,text,true,,918,303,1,1,http://192.168.1.4:1080/cgi-bin/login.pl,111,0,0
+1657191445167,154,restination,200,OK,Thread Group 1-1,text,true,,2706,463,1,1,http://192.168.1.4:1080/cgi-bin/reservations.pl,149,0,0
+1657191445323,184,reservation,200,OK,Thread Group 1-1,text,true,,2906,372,1,1,http://192.168.1.4:1080/cgi-bin/reservations.pl,179,0,0
+1657191445508,137,confirmation,200,OK,Thread Group 1-1,text,true,,2808,574,1,1,http://192.168.1.4:1080/cgi-bin/reservations.pl,132,0,0
